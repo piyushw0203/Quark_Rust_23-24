@@ -1,0 +1,11 @@
+/home/apoorva/Documents/GitHub/Quark_Rust_23-24/Apoorva's Tasks/task2/target/debug/deps/dotenv-2d8a926b0de12c1f.rmeta: /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs
+
+/home/apoorva/Documents/GitHub/Quark_Rust_23-24/Apoorva's Tasks/task2/target/debug/deps/libdotenv-2d8a926b0de12c1f.rlib: /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs
+
+/home/apoorva/Documents/GitHub/Quark_Rust_23-24/Apoorva's Tasks/task2/target/debug/deps/dotenv-2d8a926b0de12c1f.d: /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs /home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs
+
+/home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs:
+/home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs:
+/home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs:
+/home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs:
+/home/apoorva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs:
