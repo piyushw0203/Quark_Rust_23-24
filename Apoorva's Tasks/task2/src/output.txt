@@ -1,0 +1,16 @@
+satish
+won:true
+attemps:5
+
+francisco
+won:true
+attemps:5
+
+linus
+won:true
+attemps:2
+
+tina
+won:false
+attemps:10
+
