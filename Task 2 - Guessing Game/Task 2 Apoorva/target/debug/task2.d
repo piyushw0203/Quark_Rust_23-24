@@ -1,1 +1,1 @@
-/home/apoorva/Documents/GitHub/Quark_Rust_23-24/Apoorva's\ Tasks/task2/target/debug/task2: /home/apoorva/Documents/GitHub/Quark_Rust_23-24/Apoorva's\ Tasks/task2/src/main.rs
+E:\College\Quark\Quark_Rust_23-24\Task\ 2\ -\ Guessing\ Game\Task\ 2\ Apoorva\target\debug\task2.exe: E:\College\Quark\Quark_Rust_23-24\Task\ 2\ -\ Guessing\ Game\Task\ 2\ Apoorva\src\main.rs

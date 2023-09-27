@@ -1,1 +1,1 @@
-Write a Guessing Game in rust by referring from the official Rust Book Documentations and then add any unique functionality to the game.
+### Write a Guessing Game in Rust by referring to the official Rust Book Documentations and then add any unique functionality to the game.
