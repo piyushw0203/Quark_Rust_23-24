@@ -34,7 +34,7 @@ impl Cipher {
     }
 }
 
-fn cipher(ENUM: Cipher) {
+fn cipher(ENUM: Cipher, Number: u8) {
     let mut num: u8 = 0;
     match ENUM {
         Cipher::Space(space) => {
@@ -53,27 +53,27 @@ fn cipher(ENUM: Cipher) {
             }
         },
         Cipher::Upper(upper) => {
-            if upper < 88 {
-                num = upper + 3;
+            if upper < (90 - Number + 1) {
+                num = upper + Number;
                 let c = num as char;
                 print!("{c}");
             }
             else {
                 num = 90 - upper;
-                num = 65 + num;
+                num = 64 + Number - num;
                 let c = num as char;
                 print!("{c}");
             }
         },
         Cipher::Lower(lower) => {
-            if lower < 120 {
-                num = lower + 3;
+            if lower < (122 - Number + 1) {
+                num = lower + Number;
                 let c = num as char;
                 print!("{c}");
             }
             else {
                 num = 122 - lower;
-                num = 97 + num;
+                num = 96 + Number - num;
                 let c = num as char;
                 print!("{c}");
             }
@@ -88,8 +88,15 @@ fn main() {
     println!("Enter text to be ciphered");
     let mut S = String::new();
     io::stdin().read_line(&mut S);
+    println!("Enter shift value");
+    let mut x = String::new();
+    io::stdin().read_line(&mut x);
+    let num = x.trim().parse().expect("Enter valid number");
+    if !(num <= 25) {
+        return
+    }
     for (i, c) in S.trim().chars().enumerate() {
         let character: Cipher = Cipher::new(c);
-        cipher(character);
+        cipher(character, num);
     }
 }
